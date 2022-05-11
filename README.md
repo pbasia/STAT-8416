@@ -1,3 +1,6 @@
+&copy; Piyush Basia, Data Science, University of Nebraska at Omaha 2022  
+  
+
 ## Introduction:
 
 As Part of the final class project of STAT-8416, Intro to Data Science at the University of Nebraska - Omaha, I have explored the statistics and dynamics in home values, rentals, market list prices, sale prices, and forecasts in the USA using [Zillow Research Dataset](https://www.zillow.com/research/data/) and created a dashboard with all our analyses in one place. The Dashboard, ['Zillow Data Explorer'](https://basiapiyush.shinyapps.io/Group2_STAT8416/) shows all the changes in different house values over the last 5 years in interactive ways for Zillow data which helps users to understand and analyze the US house market. It answers all our research questions for this project.
